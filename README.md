@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 55px src="https://i.imgur.com/YeSLeMG.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Pinky-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Pink Panther-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Shafeeq-kp/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
