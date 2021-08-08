@@ -27,7 +27,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var ttinullimage = await axios.get(`https://lolhuman.herokuapp.com/api/ephoto1/anonymhacker?apikey=${Config.990580a2e31add15990665b0}&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://lolhuman.herokuapp.com/api/ephoto1/anonymhacker?apikey=${Config.LOLUHUMAN_API}&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: Config.CAPTION_KEY})
 
