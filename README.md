@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 55px src="https://i.imgur.com/YeSLeMG.jpeg" width="200" height="200"/>
+  <img border-radius: 55px src="https://i.imgur.com/V8IGiW0.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Pink Panther" src="https://img.shields.io/badge/Pink%20Panther-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
